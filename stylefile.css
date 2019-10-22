@@ -1,0 +1,169 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.list1{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+.lis
+{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 12px;
+  font-size: 14px;
+}
+.lise{
+	float:right;
+	display: block;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 14px;
+  }
+  .list2{
+ list-style-type: none;
+  /*margin: 0;*/
+  padding: 0;
+  overflow: hidden;
+  background-color: grey; 	
+  }
+.li2{
+	float: left;
+  display: block;
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+border: none;  
+
+
+}
+#listing{
+float: right;
+  color: white;
+    text-decoration: none;
+  
+  margin-top: 10px;	
+}
+.align1{
+	display:inline-flex;
+	float: left;
+	margin-left: 316px;
+	margin-top: 13px;
+
+
+}
+.align2{
+float: right;
+margin-right: 10px;
+}
+.input-container{
+	display: flex;
+  width: 100%;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+.list3{
+	padding: 0;
+  overflow: hidden;
+  background-color: lightgrey; 
+  display: inline-flex;
+  width: 100%;
+  margin-top: 6px;
+
+}
+.field{
+float: left;
+color: blue;
+
+}
+.btns{
+  border: none;
+  background-color: lightgrey;
+  font-size: 16px;
+  margin-left: 10px;
+  text-align: center;
+}
+.btns .onclick
+{
+  border: blue;
+}
+.lastbutton1{
+  background-color: green;
+border: green;
+width: 90px;
+margin-left: 10px;
+}
+.lastbutton2{
+   background-color: red;
+border: red;
+width: 90px;
+margin-left: 20px;
+}
+.hr1{
+  border: 2px solid black;
+}
+.gallery{
+  margin: 10px;
+  border: 1px solid #ccc;
+  float: left;
+  width:290px;
+  /*margin-left: 30px;*/
+  height: 320px;
+  background-color: #98289F;
+  }
+div.gallery img {
+  width: 100%;
+}
+div.desc {
+  padding: 0px;
+  background-color: #98289F;
+  color: white;
+}
+.whole{
+  margin-left:50px;
+}
+.load{
+  margin-left: 630px;
+font-size: 16px;
+padding: 5px;
+margin-bottom: 15px;
+border: none;
+}
+.foot{
+ margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  text-align: center;
+  display: block;
+
+}
+#hr2{
+ border: 1px solid red; 
+ width: 42%;
+}
+#hr3{
+  border: 1px solid red; 
+  margin-left: 790px;
+  width: 50%;
+}
+#fin{
+  position: absolute;
+  display: flex;
+  float: left;
+  margin-left: 560px;
+    
+}
+.final{
+  margin-left: 480px;
+  float: left;
+}
